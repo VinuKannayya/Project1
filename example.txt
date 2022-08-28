@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Vineeth Reddy
+=======
+Thi sis vineeth reddy
+>>>>>>> d2233cf50128924555f3360d6861ed007c09cd1d
